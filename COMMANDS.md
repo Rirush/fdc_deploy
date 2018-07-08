@@ -22,6 +22,7 @@ None.
 ### Returns:
 - **Repeated:**
 - - **1:** Application name
+- - **2:** Repository URL
 
 ## DEPLOY\_NEW
 Creates and deploys new application on server.
